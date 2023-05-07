@@ -1,3 +1,2 @@
 # Multiple-Disease-Prediction-webpage
-Multiple-Disease-Prediction-webpage with streamlit
-streamlit run [file location]
+we need to write {streamlit run [file location]} to the cmd to run the website on your device.
