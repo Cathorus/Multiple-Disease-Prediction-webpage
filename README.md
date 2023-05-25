@@ -1,6 +1,8 @@
 
 # 📝 Multiple-Disease-Prediction-webpage
 
+🚨 Note: This code is provided as a prototype and may require further enhancements and optimizations for real-world scenarios.
+
 ---
 
 ## 📚 Description
